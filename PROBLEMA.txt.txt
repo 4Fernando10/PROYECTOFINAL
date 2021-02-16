@@ -1,0 +1,6 @@
+El problema fue que la empresa necesitaba automatizar a sus clientes.
+entonces el objetivo era realizar de la manera mas rapida posible el poder
+asegurar a sus clientes.
+Y era tan facil como ingresar los datos de los clientes en una base de datos
+e ir incluyendo los recargos de una vez en sus datos, asi al momento de ingresar 
+su nombre, iban a tener en segundos sus datos y cuanto tenian que pagar. 
